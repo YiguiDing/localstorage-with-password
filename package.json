@@ -1,0 +1,31 @@
+{
+  "name": "localstorage-with-password",
+  "version": "1.0.0",
+  "description": "localstorage-with-password",
+  "main": "src/localStorage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localstorage",
+    "password",
+    "json",
+    "database"
+  ],
+  "author": "YiguiDing",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {
+    "node-machine-id": "^1.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiguiDing/localstorage-with-password.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YiguiDing/localstorage-with-password/issues"
+  },
+  "homepage": "https://github.com/YiguiDing/localstorage-with-password#readme"
+}
